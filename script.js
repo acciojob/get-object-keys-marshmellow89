@@ -1,6 +1,6 @@
 //your JS code here. If required.
 
- student = {
+ const student = {
 	name: "john",
 	age: "20",
 	city: "delhi"
