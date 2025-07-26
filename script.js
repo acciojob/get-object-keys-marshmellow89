@@ -7,5 +7,5 @@
 }
 
 function getKeys(obj){
-	return Objects.keys(obj);
+	return Object.keys(obj);
 }
