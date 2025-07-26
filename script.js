@@ -6,6 +6,6 @@
 	city: "delhi"
 }
 
-function getKeys(obj){
-	return Object.keys(obj);
+function getKeys(student){
+	return Object.keys(student);
 }
